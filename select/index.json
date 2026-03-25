@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Knew day",
+  "base_artist": "(K)NoW_NAME",
+  "createdAt": "2026-03-25T13:37:03.084777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knew day",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/01_Knew_day_(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Knew day",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/02_Knew_day_(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "knew day",
+      "artist": "nowname",
+      "has_synced": true,
+      "path": "select/03_knew_day_nowname.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knew day",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/04_Knew_day_(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knew day",
+      "artist": "(K)NoW_NAME:Tachibana Ayaka",
+      "has_synced": true,
+      "path": "select/05_Knew_day_(K)NoW_NAME_Tachibana_Ayaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Knew day",
+      "artist": "(K)NoW_NAME",
+      "has_synced": false,
+      "path": "select/pl_01_Knew_day_(K)NoW_NAME.txt"
+    }
+  ]
+}
